@@ -1,1 +1,1 @@
-# ITAGC8
+# ITAGC8 - Our first class!
